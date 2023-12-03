@@ -1,0 +1,110 @@
+    [
+        {
+            "pk": 1,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https: //images.pexels.com/photos/706194/pexels-photo-706194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of 3 brown llamas with one looking closely at camera"
+        },
+        {
+            "pk": 2,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https: images.pexels.com/photos/1575857/pexels-photo-1575857.jpeg",
+            "alt": "image of long haired brown llama smirking"
+        },
+        {
+            "pk": 3,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/277218/pexels-photo-277218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "alt": "image of a cream colored llama behind a fence with a suspicious expression"
+        },
+        {
+            "pk": 4,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/2080185/pexels-photo-2080185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a white llama standing up in an open field"
+        },
+        {
+            "pk": 5,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/3214992/pexels-photo-3214992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a brown llama in Macchu Picchu"
+        },
+        {
+            "pk": 6,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/3707644/pexels-photo-3707644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a llama crossing traffic sign with a pack of llamas standing behind it"
+        },
+        {
+            "pk": 7,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/5840705/pexels-photo-5840705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a white llama with a marvalously shaggy head of hair"
+        },
+        {
+            "pk": 8,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/4099050/pexels-photo-4099050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a black llama giving a woman a kiss... no spitting was involed"
+        },
+        {
+            "pk": 9,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/5194182/pexels-photo-5194182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a brown llama with decorative headband and necklace on"
+        },
+        {
+            "pk": 10,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/9197271/pexels-photo-9197271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a llama walking in a grassy field, with their hair being blown in the wind"
+        },
+        {
+            "pk": 11,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/18700575/pexels-photo-18700575/free-photo-of-llama-lying-down-near-wall-and-door.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "a dark brown and black llama sitting next to a building in the street with its ears pulled back"
+        },
+        {
+            "pk": 12,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/9946109/pexels-photo-9946109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "close up image of a llamas bottom row of teeth"
+        },
+        {
+            "pk": 13,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/3888009/pexels-photo-3888009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a brown and white llama stading in front of a pile of hay"
+        },
+        {
+            "pk": 14,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/12102630/pexels-photo-12102630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "majestic image of a brown llama standing between trees that are out of focus"
+        },
+        {
+            "pk": 15,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/13581294/pexels-photo-13581294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a brown baby llama laying in a field relaxing"
+        },
+        {
+            "pk": 16,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/8721117/pexels-photo-8721117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a white llama smiling through an iron chainlink fence"
+        },
+        {
+            "pk": 17,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/9880171/pexels-photo-9880171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a brown baby llama eating some whole carrots"
+        },
+        {
+            "pk": 18,
+            "card_back": "https: //images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "card_front": "https://images.pexels.com/photos/7682679/pexels-photo-7682679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "image of a white llama that is shedding perfusely"
+        },
+    ]
